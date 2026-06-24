@@ -1,18 +1,35 @@
-## Getting Started
+# 🚀 Exercícios Java - Lógica de Programação
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Repositório dedicado à resolução de exercícios de lógica de programação utilizando **Java**, com foco no desenvolvimento do raciocínio lógico, prática de algoritmos e fortalecimento da base para desenvolvimento backend.
 
-## Folder Structure
+## 📚 Sobre o projeto
 
-The workspace contains two folders by default, where:
+Este repositório reúne exercícios resolvidos durante meus estudos de lógica de programação e Programação Orientada a Objetos (POO), abordando conceitos fundamentais para a construção de software.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+O objetivo é consolidar conhecimentos essenciais como:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Estruturas condicionais
+- Estruturas de repetição
+- Operadores matemáticos
+- Entrada e saída de dados
+- Métodos
+- Classes e Objetos
+- Encapsulamento
+- Validações lógicas
+- Algoritmos básicos
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠️ Tecnologias utilizadas
 
-## Dependency Management
+- **Java 17**
+- **IDE Eclipse**
+- **Programação Orientada a Objetos (POO)**
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 📂 Estrutura do repositório
+
+```bash
+Exercicios-Java-Logica/
+│── src/
+│   ├── exercicio01/
+│   ├── exercicio02/
+│   ├── exercicio03/
+│   └── ...
